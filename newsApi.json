@@ -1,0 +1,146 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Jacqueline Howard, CNN",
+      "title": "Fourth vaccine dose boosts antibodies, researchers say, but likely not enough to prevent Omicron breakthrough infections - CNN",
+      "description": "Early data out of Israel suggests that a fourth dose of either the Pfizer/BioNTech or Moderna coronavirus vaccine can bring an increase in antibodies -- more than what's been seen after a third dose -- but it still might not be enough to protect against break…",
+      "url": "https://www.cnn.com/2022/01/17/health/israel-fourth-dose-early-data/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220117160819-pfizer-vaccine-israel-010522-super-tease.jpg",
+      "publishedAt": "2022-01-18T09:47:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Mabinty Quarshie",
+      "title": "Democrats came up short on MLK day promise. What's next for the push for a voting rights bill? - USA TODAY",
+      "description": "Democrats remain intent on bringing a voting rights bill up for a vote after a week when their efforts to move the legislation forward were stymied.",
+      "url": "https://www.usatoday.com/story/news/politics/2022/01/17/mlk-day-democrats-voting-rights-bill-filibuster/6529068001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/01/13/USAT/6a843a0b-06df-4fcb-a43f-f36f4fbbd789-AP_Congress_Voting_Bills_2.jpg?crop=5999,3375,x0,y305&width=3200&height=1680&fit=bounds",
+      "publishedAt": "2022-01-18T09:34:56Z",
+      "content": "The 2020 presidential election spurred a wave of voting laws that some say could restrict access to the polls. Here's how they could affect voters in future elections.\r\nUSA TODAY\r\nWASHINGTON Democrat… [+7359 chars]"
+    },
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Jacob Stolworthy",
+      "title": "Joss Whedon breaks silence over Justice League allegations, calling Ray Fisher ‘bad actor in two senses’ - The Independent",
+      "description": "‘Avengers’ director didn’t hold back while addressing claims",
+      "url": "https://www.independent.co.uk/arts-entertainment/films/news/joss-whedon-justice-league-ray-fisher-b1995150.html",
+      "urlToImage": "https://static.independent.co.uk/2022/01/17/18/Joss-Whedon-Ray-Fisher.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2022-01-18T09:24:16Z",
+      "content": "Joss Whedon has broken his silence over claims of misconduct on the set of Justice League.\r\nIn 2020, Fisher, who played Cyborg in Whedons Justice League, alleged that the director engaged in gross, a… [+1721 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "https://www.engadget.com/about/editors/steve-dent",
+      "title": "Samsung's Exynos 2200 mobile processor uses an AMD ray tracing GPU - Engadget",
+      "description": "amsung has revealed the Exynos 2200, its first mobile processor with an AMD RDNA 2-powered GPU that will allow ray-tracing and other gaming features..",
+      "url": "https://www.engadget.com/samsung-exynos-2200-processor-amd-ray-tracing-gpu-084920156.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/74878ec0-783a-11ec-b76d-fa7d20f81832",
+      "publishedAt": "2022-01-18T08:50:12Z",
+      "content": "Samsung has revealed the Exynos 2200, its first mobile processor with an AMD RDNA 2-powered GPU that will allow ray-tracing and other gaming features. The system-on-chip (SoC) will likely feature in … [+1458 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Natasha Turak",
+      "title": "Oil hits seven-year high as Houthi attack on UAE rattles regional tensions - CNBC",
+      "description": "International benchmark Brent crude was trading at $87.75 on Tuesday at 11 a.m. in Abu Dhabi, its highest level since 2014.",
+      "url": "https://www.cnbc.com/2022/01/18/oil-hits-seven-year-high-as-houthi-attack-on-uae-rattles-regional-tensions.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107002312-1642493017541-gettyimages-1237783674-AFP_9WC8FV.jpeg?v=1642493056",
+      "publishedAt": "2022-01-18T08:04:48Z",
+      "content": "A storage facility of oil giant ADNOC near the airport in the capital of the United Arab Emirates, Abu Dhabi, on Jan. 17, 2022.\r\nDUBAI, United Arab Emirates The United Arab Emirates has vowed to reta… [+2720 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Rhea Mogul, Eric Cheung, Akanksha Sharma and Teele Rebane CNN",
+      "title": "First images of Tonga volcano damage show entire communities covered in thick ash - CNN",
+      "description": "A thick layer of ash covering entire island communities can be seen in the first images of disaster-hit Tonga to emerge following what experts believe to be the world's biggest volcanic eruption in more than 30 years.",
+      "url": "https://www.cnn.com/2022/01/18/asia/tonga-volcano-tsunami-damage-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220118001550-01-tonga-eruption-damage-super-tease.jpg",
+      "publishedAt": "2022-01-18T07:50:00Z",
+      "content": "By Rhea Mogul, Eric Cheung, Akanksha Sharma and Teele Rebane CNN\r\nUpdated 3:41 AM ET, Tue January 18, 2022\r\n (CNN)A thick layer of ash covering entire island communities can be seen in the first imag… [+4879 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MarketWatch" },
+      "author": "Barbara Kollmeyer",
+      "title": "Nasdaq-100 futures tumble as Treasury yields surge to pre-pandemic levels - MarketWatch",
+      "description": "Stock futures fell Tuesday, with Nasdaq-100 futures undefined dropping 1% as U.S. Treasury yields shot higher across the board. S&P 500 futures undefined...",
+      "url": "https://www.marketwatch.com/story/nasdaq-100-futures-tumble-as-treasury-yields-surge-to-pre-pandemic-levels-2022-01-18",
+      "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "publishedAt": "2022-01-18T07:46:00Z",
+      "content": "Stock futures fell Tuesday, with Nasdaq-100 futures \r\n NQ00,\r\n -1.83%\r\ndropping 1% as U.S. Treasury yields shot higher across the board. S&amp;P 500 futures \r\n ES00,\r\n -1.17%\r\nwere off 0.5%, with Dow… [+800 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "David Aaro",
+      "title": "Large 'potentially hazardous' asteroid passing by Earth on Tuesday - Fox News",
+      "description": "Astronomers are tracking a large and \"potentially hazardous\" asteroid that is set to make a relatively close pass by the Earth on Tuesday.",
+      "url": "https://www.foxnews.com/science/massive-potentially-hazardous-asteroid-passing-earth-tuesday-how-track",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Asteroid-2021-KT1.jpeg",
+      "publishedAt": "2022-01-18T07:28:25Z",
+      "content": "Astronomers are tracking a large and \"potentially hazardous\" asteroid that is set to make a relatively close pass by the Earth on Tuesday.\r\nThe asteroid, called 7482 (1994 PC1), is expected to fly by… [+1641 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "JAZZ at LAKERS | FULL GAME HIGHLIGHTS | January 17, 2022 - NBA",
+      "description": "Stream More Live Games With NBA LEAGUE PASS: https://app.link.nba.com/e/subscribe_nowSubscribe to the NBA: https://on.nba.com/2JX5gSNThe Los Angeles Lakers d...",
+      "url": "https://www.youtube.com/watch?v=ii889A8FKnE",
+      "urlToImage": "https://i.ytimg.com/vi/ii889A8FKnE/maxresdefault.jpg",
+      "publishedAt": "2022-01-18T06:14:28Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Arizona Sports" },
+      "author": "",
+      "title": "Kliff Kingsbury has to go after Cardinals’ embarrassing loss to Rams - Arizona Sports",
+      "description": "It’s time for a change. A new plan. A new head coach. And to complete the reboot, the team should unveil a host of brand new uniforms.",
+      "url": "https://arizonasports.com/story/2974260/bickley-kliff-kingsbury-has-to-go-after-cardinals-embarrassing-loss-to-rams/",
+      "urlToImage": "http://arizonasports.com/wp-content/uploads/2022/01/GettyImages-1365258605-e1642483788988.jpg",
+      "publishedAt": "2022-01-18T05:30:00Z",
+      "content": "INGLEWOOD — The Cardinals owe their fans an apology. Especially the brave-hearted believers who swaggered into SoFi Stadium on Monday night expecting their football team to do the same.\r\nThen its tim… [+4189 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Megan Thomas",
+      "title": "Betty White's assistant shares one of her final photos - CNN",
+      "description": "Betty White would have celebrated her 100th birthday on Monday and her assistant commemorated the day by sharing one of the final photos taken of the beloved late actress.",
+      "url": "https://www.cnn.com/2022/01/17/entertainment/betty-white-last-photo/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220117213929-betty-white-last-photo-fb-super-tease.jpg",
+      "publishedAt": "2022-01-18T05:08:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Associated Press",
+      "title": "Matthew Stafford, Rams crush Cardinals for QB's first NFL playoff win - New York Post ",
+      "description": "Matthew Stafford rushed for one touchdown and passed for two more as the Los Angeles Rams advanced to the NFC divisional playoff round with a convincing 34-11 victory over the visiting Arizona Card…",
+      "url": "https://nypost.com/2022/01/17/matthew-stafford-rams-crush-cardinals-for-nfl-wild-card-win/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/1365280779.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2022-01-18T04:54:00Z",
+      "content": "INGLEWOOD, Calif. (AP) The Rams had a 20-point lead on Arizona with 4 1/2 minutes left at raucous SoFi Stadium. Matthew Staffords 13-year quest for his first playoff victory was all but complete afte… [+4430 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hollywood Reporter" },
+      "author": "Abid Rahman",
+      "title": "“The Dick Van Dyke Accent School”: Social Media Obsesses Over Oscar Isaac’s British Accent In ‘Moon Knight’ Trailer - Hollywood Reporter",
+      "description": "“I think I’m losing it.” The first trailer for Disney+ series Moon Knight dropped on Monday night and as with everything that comes from Marvel Studios, the show looks slick and spectacular. In amongst the positive reaction to the trailer, however, was social…",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/oscar-isaacs-british-accent-moon-knight-1235076377/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/GettyImages-1357649672.jpeg?w=1024",
+      "publishedAt": "2022-01-18T04:43:17Z",
+      "content": "“I think I’m losing it.”\r\nThe first trailer for Disney+ series Moon Knight dropped on Monday night and as with everything that comes from Marvel Studios, the show looks slick and spectacular. In amon… [+4347 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Cardinals vs. Rams Super Wild Card Weekend Highlights | NFL 2021 - NFL",
+      "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+      "url": "https://www.youtube.com/watch?v=VfMqgtKsoag",
+      "urlToImage": "https://i.ytimg.com/vi/VfMqgtKsoag/maxresdefault.jpg",
+      "publishedAt": "2022-01-18T04:40:32Z",
+      "content": null
+    }
+  ]
+}
